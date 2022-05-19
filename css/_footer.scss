@@ -1,0 +1,16 @@
+#credits {
+    display: block;
+    color: $white;
+    background-color: $black;
+    padding: 1em;
+    text-align: center;
+
+    a { 
+        color: $pink;
+        font-weight: bold;
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}

@@ -1,0 +1,17 @@
+$black: #000;
+$partial-black: #1E1E1E;
+$white: #fff;
+$pink: #EF5DA8;
+$brow: #472E3B;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+html, body {
+    background-color: #fff;
+    scroll-behavior: smooth;
+}
